@@ -1,7 +1,6 @@
 {
-    "name": "oldRadio",
-    "version": "0.0.1",
-    "private": true,
+    "name": "Node.js Twitter Streaming",
+    "author": "Zeno Rocha",
     "dependencies": {
       "express": "~2.5.8",
       "ejs": "~0.7.1",
