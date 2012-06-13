@@ -63,3 +63,9 @@ $ heroku create --stack cedar
 4. Antes de abrirmos nossa app no browser precisamos escalar o processo: `$ heroku ps:scale web=1`
 5. Para ver como anda os processos em execução: `$ heroku ps`
 6. Agora é só ver como ficou no browser: `heroku open`
+
+## Referências
+
+* https://devcenter.heroku.com/articles/quickstart
+* https://devcenter.heroku.com/articles/nodejs	
+* http://robdodson.me/blog/2012/06/04/deploying-your-first-node-dot-js-and-socket-dot-io-app-to-heroku/
