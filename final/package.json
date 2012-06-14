@@ -1,5 +1,7 @@
 {
-    "name": "Node.js Twitter Streaming",
+    "name": "twitter-streaming",
+    "description": "twitter-streaming",
+    "version": "v0.0.1",
     "author": "Zeno Rocha",
     "dependencies": {
       "express": "~2.5.8",
