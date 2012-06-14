@@ -1,13 +1,13 @@
 {
-    "name": "twitter-streaming",
-    "description": "twitter-streaming",
-    "version": "v0.0.1",
-    "author": "Zeno Rocha",
-    "dependencies": {
-      "express": "~2.5.8",
-      "ejs": "~0.7.1",
-      "socket.io": "~0.9.6",
-      "ntwitter": "0.3.0"
+  "name": "twitter-streaming",
+  "description": "twitter-streaming",
+  "version": "v0.0.1",
+  "author": "Zeno Rocha",
+  "dependencies": {
+    "express": "~2.5.8",
+    "ejs": "~0.7.1",
+    "socket.io": "~0.9.6",
+    "ntwitter": "0.3.0"
   },
   "engines": {
     "node": "0.6.x"
